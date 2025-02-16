@@ -9,3 +9,4 @@ The performance of four models is compared:
 Given below is comparison of each model
 ![image](https://github.com/user-attachments/assets/1024a7ba-e29b-4617-a147-24843bb6cdab)
 
+Hence the optimal choice was found to be LSTM model which offers as balance between accuracy(87%) and efficiency, suitable fir medium resource environments. 
