@@ -1,5 +1,7 @@
 This project focuses on performing sentiment analysis on tweets to classify them into positive, negative, and neutral sentiments. The analysis leverages machine learning techniques to understand public sentiment about specific topics using Twitter data.
 
+Please find the data in twitter_training.csv. Each .ipynb file was run separately and the outputs compared.
+
 The performance of four models is compared:
   1. Logistic Regression
   2. Naive Bayes
